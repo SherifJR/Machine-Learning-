@@ -41,6 +41,6 @@ python linear_regression_scratch.py
 
 ## Results
 
-![Regression Line](https://github.com/user-attachments/assets/b2a89516-88e3-4211-97a0-24360350fbd8)
+![Regression Line](https://github.com/SherifJR/Machine-Learning-/blob/main/LR_from_scratch/LR_scr.jpg)
 
 The model fits a clean regression line through the salary data, converging after 10,000 iterations with learning rate α=0.01.
